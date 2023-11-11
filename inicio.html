@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/inicio.css">
+    <link rel="shortcut icon" href="/img/logo.jpg">
+    <title>SDSoundCloud</title>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-database-compat.js"></script>
+</head>
+<body>
+    <header class="navbar">
+        <img src="/img/logo.jpg" alt="SDSoundCloud">
+        <a href="#">SDSoundCloud</a>
+        <span id="username">Usuario</span>
+        <button id="logout-button">Cerrar sesión</button>
+    </header>
+    <form id="search-form">
+        <input type="text" id="search-input" placeholder="Buscar canción">
+        <select id="filter">
+            <option value="all">Todos</option>
+            <option value="genre">Género</option>
+            <option value="artist">Artista</option>
+            <option value="year">Año</option>
+        </select>
+        <button type="submit">Buscar</button>
+    </form>
+    <div id="search-results"></div>
+    <div id="video-list"></div>
+    <div id="pagination">
+        <button id="prev-page">Página anterior</button>
+        <span id="current-page">1</span>
+        <button id="next-page">Página siguiente</button>
+    </div>
+    
+    <script type="module" src="/js/main.js"></script>
+    <script>
+        window.onload = function() {
+            var username = localStorage.getItem('username');
+            if (username) {
+                document.getElementById('username').textContent = username;
+            }
+        };
+    </script>
+    <script type="module" src="/js/busqueda.js"></script>
+</body>
+</html>

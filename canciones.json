@@ -1,0 +1,605 @@
+{
+    "songs": [
+      {
+        "artist": "Maluma",
+        "title": "Hawái",
+        "year": "2020",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Maluma",
+        "title": "Felices los 4",
+        "year": "2017",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Reykon",
+        "title": "El Chisme",
+        "year": "2016",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Reykon",
+        "title": "Imaginándote",
+        "year": "2015",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Feid",
+        "title": "PORFA",
+        "year": "2020",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Feid",
+        "title": "911",
+        "year": "2020",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Romeo Santos",
+        "title": "Propuesta Indecente",
+        "year": "2013",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Romeo Santos",
+        "title": "Eres Mía",
+        "year": "2014",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Prince Royce",
+        "title": "Darte un Beso",
+        "year": "2013",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Prince Royce",
+        "title": "Corazón Sin Cara",
+        "year": "2010",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Grupo Niche",
+        "title": "Una Aventura",
+        "year": "1996",
+        "genre": "Salsa"
+      },
+      {
+        "artist": "Grupo Niche",
+        "title": "Cali Pachanguero",
+        "year": "1984",
+        "genre": "Salsa"
+      },
+      {
+        "artist": "J Balvin",
+        "title": "Mi Gente",
+        "year": "2017",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Daddy Yankee",
+        "title": "Gasolina",
+        "year": "2004",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Marc Anthony",
+        "title": "Vivir Mi Vida",
+        "year": "2013",
+        "genre": "Salsa"
+      },
+      {
+        "artist": "Juan Luis Guerra",
+        "title": "Bachata en Fukuoka",
+        "year": "2010",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Shakira",
+        "title": "Hips Don't Lie",
+        "year": "2006",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Carlos Vives",
+        "title": "La Bicicleta",
+        "year": "2016",
+        "genre": "Vallenato"
+      },
+      {
+        "artist": "Ricky Martin",
+        "title": "Livin' la Vida Loca",
+        "year": "1999",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Enrique Iglesias",
+        "title": "Bailando",
+        "year": "2014",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Luis Fonsi",
+        "title": "Despacito",
+        "year": "2017",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Nicky Jam",
+        "title": "El Perdón",
+        "year": "2015",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Don Omar",
+        "title": "Danza Kuduro",
+        "year": "2010",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Wisin & Yandel",
+        "title": "Rakata",
+        "year": "2006",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Celia Cruz",
+        "title": "La Vida Es Un Carnaval",
+        "year": "1998",
+        "genre": "Salsa"
+      },
+      {
+        "artist": "Aventura",
+        "title": "Obsesión",
+        "year": "2002",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Juanes",
+        "title": "A Dios le Pido",
+        "year": "2002",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Silvestre Dangond",
+        "title": "Ni Punto e' Comparación",
+        "year": "2017",
+        "genre": "Vallenato"
+      },
+      {
+        "artist": "Chayanne",
+        "title": "Tiempo de Vals",
+        "year": "1990",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Alejandro Sanz",
+        "title": "Corazón Partío",
+        "year": "1997",
+        "genre": "Pop"
+      },
+      {
+        "artist": "CNCO",
+        "title": "Reggaetón Lento (Bailemos)",
+        "year": "2016",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Bad Bunny",
+        "title": "Yo Perreo Sola",
+        "year": "2020",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Ozuna",
+        "title": "Caramelo",
+        "year": "2020",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Karol G",
+        "title": "Tusa",
+        "year": "2019",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Sebastian Yatra",
+        "title": "Traicionera",
+        "year": "2016",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Natti Natasha",
+        "title": "Criminal",
+        "year": "2017",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Farruko",
+        "title": "Krippy Kush",
+        "year": "2017",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Becky G",
+        "title": "Mayores",
+        "year": "2017",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Luis Miguel",
+        "title": "La Incondicional",
+        "year": "1989",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Thalia",
+        "title": "Amor a la Mexicana",
+        "year": "1997",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Gloria Trevi",
+        "title": "Todos Me Miran",
+        "year": "2006",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Ricardo Arjona",
+        "title": "Mujeres",
+        "year": "1992",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Mana",
+        "title": "Rayando El Sol",
+        "year": "1990",
+        "genre": "Rock"
+      },
+      {
+        "artist": "Soda Stereo",
+        "title": "De Musica Ligera",
+        "year": "1990",
+        "genre": "Rock"
+      },
+      {
+        "artist": "Cafe Tacvba",
+        "title": "Eres",
+        "year": "2003",
+        "genre": "Rock"
+      },
+      {
+        "artist": "Molotov",
+        "title": "Gimme Tha Power",
+        "year": "1997",
+        "genre": "Rock"
+      },
+      {
+        "artist": "Juan Gabriel",
+        "title": "Querida",
+        "year": "1984",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Vicente Fernandez",
+        "title": "El Rey",
+        "year": "1971",
+        "genre": "Ranchera"
+      },
+      {
+        "artist": "Jose Jose",
+        "title": "El Triste",
+        "year": "1970",
+        "genre": "Ballad"
+      },
+      {
+        "artist": "Rocio Durcal",
+        "title": "Amor Eterno",
+        "year": "1984",
+        "genre": "Ballad"
+      },
+      {
+        "artist": "Alejandro Fernandez",
+        "title": "Como Quien Pierde Una Estrella",
+        "year": "1992",
+        "genre": "Ranchera"
+      },
+      {
+        "artist": "Ana Gabriel",
+        "title": "Quien Como Tu",
+        "year": "1989",
+        "genre": "Ballad"
+      },
+      {
+        "artist": "Rauw Alejandro",
+        "title": "Todo De Ti",
+        "year": "2021",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Bad Bunny",
+        "title": "Dákiti",
+        "year": "2020",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Anuel AA",
+        "title": "China",
+        "year": "2019",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Ozuna",
+        "title": "La Modelo",
+        "year": "2017",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Nicky Jam",
+        "title": "X",
+        "year": "2018",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "J Balvin",
+        "title": "Ay Vamos",
+        "year": "2014",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Maluma",
+        "title": "Borro Cassette",
+        "year": "2015",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Daddy Yankee",
+        "title": "Con Calma",
+        "year": "2019",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Wisin",
+        "title": "Escápate Conmigo",
+        "year": "2017",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Yandel",
+        "title": "Encantadora",
+        "year": "2015",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Don Omar",
+        "title": "Taboo",
+        "year": "2011",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Zion & Lennox",
+        "title": "Otra Vez",
+        "year": "2016",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Arcángel",
+        "title": "Me Prefieres a Mí",
+        "year": "2012",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Farruko",
+        "title": "Chillax",
+        "year": "2016",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Plan B",
+        "title": "Fanática Sensual",
+        "year": "2014",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Jowell & Randy",
+        "title": "Bonita",
+        "year": "2017",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "De La Ghetto",
+        "title": "La Ocasión",
+        "year": "2016",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Alexis & Fido",
+        "title": "Una En Un Millón",
+        "year": "2015",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Zion",
+        "title": "La Botella",
+        "year": "2014",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Lennox",
+        "title": "Pierdo La Cabeza",
+        "year": "2014",
+        "genre": "Reggaeton"
+      },
+      {
+        "artist": "Romeo Santos",
+        "title": "Imitadora",
+        "year": "2017",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Prince Royce",
+        "title": "El Clavo",
+        "year": "2018",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Aventura",
+        "title": "Inmortal",
+        "year": "2019",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Monchy & Alexandra",
+        "title": "Dos Locos",
+        "year": "2002",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Toby Love",
+        "title": "Tengo Un Amor",
+        "year": "2006",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Frank Reyes",
+        "title": "Princesa",
+        "year": "2002",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Raulín Rodríguez",
+        "title": "Esta Noche",
+        "year": "1993",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Luis Vargas",
+        "title": "Volvió el Dolor",
+        "year": "1992",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Anthony Santos",
+        "title": "Por Mi Timidez",
+        "year": "1992",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Joe Veras",
+        "title": "Inténtalo Tú",
+        "year": "2004",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Elvis Martínez",
+        "title": "Maestra",
+        "year": "2002",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Zacarías Ferreira",
+        "title": "Es Tan Difícil",
+        "year": "2008",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Yoskar Sarante",
+        "title": "Llora Alma Mía",
+        "year": "2002",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Hector Acosta",
+        "title": "Me Voy",
+        "year": "2006",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Juan Luis Guerra",
+        "title": "Bachata Rosa",
+        "year": "1990",
+        "genre": "Bachata"
+      },
+      {
+        "artist": "Shakira",
+        "title": "Waka Waka",
+        "year": "2010",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Ricky Martin",
+        "title": "La Mordidita",
+        "year": "2015",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Enrique Iglesias",
+        "title": "El Perdedor",
+        "year": "2014",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Carlos Vives",
+        "title": "Fruta Fresca",
+        "year": "1999",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Chayanne",
+        "title": "Yo Te Amo",
+        "year": "2000",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Thalia",
+        "title": "No Me Enseñaste",
+        "year": "2002",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Paulina Rubio",
+        "title": "Yo No Soy Esa Mujer",
+        "year": "2000",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Alejandro Sanz",
+        "title": "No Me Compares",
+        "year": "2012",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Luis Fonsi",
+        "title": "No Me Doy Por Vencido",
+        "year": "2008",
+        "genre": "Pop"
+      },
+      {
+        "artist": "David Bisbal",
+        "title": "Bulería",
+        "year": "2004",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Pablo Alborán",
+        "title": "Solamente Tú",
+        "year": "2011",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Jesse & Joy",
+        "title": "Corre",
+        "year": "2011",
+        "genre": "Pop"
+      },
+      {
+        "artist": "Reik",
+        "title": "Yo Quisiera",
+        "year": "2005",
+        "genre": "Pop"
+      }
+    ]
+  }
+  
